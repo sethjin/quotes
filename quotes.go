@@ -1,8 +1,8 @@
 package quotes
 
 func Favs() []string {
-	return []string {
+	return []string{
 		"quotes1",
-		"quotes2"
+		"quotes2",
 	}
 }
