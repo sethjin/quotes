@@ -5,5 +5,6 @@ func Favs() []string {
 		"quotes1",
 		"quotes2",
 		"quotes3",
+		"quotes4",
 	}
 }
